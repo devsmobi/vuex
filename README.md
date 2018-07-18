@@ -146,6 +146,14 @@ _Graphical representation of the simple implementation of state_
      - actions
        - mapMutations
        - mapActions
+       
+### Modularization
+Vuex allows us to divide store into modules and each module can contain its own state, mutations, actions, getters and even nested modules.
+
+### NB
+
+- Components can still have local state
+- If a piece of state strictly belongs to a single component, it can be kept as a local state
 ## References
 * [Vuex](https://vuex.vuejs.org/)
 * [Managing Your Vue.js Application’s State with Vuex — Part 1](https://morningstar.engineering/managing-your-vue-js-applications-state-with-vuex-part-1-355514a7b710)
