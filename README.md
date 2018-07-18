@@ -45,6 +45,8 @@ _Graphical representation of the simple implementation of state_
 
 ![grec-1](/screenshots/grec-1.png)
 
+[Watch video](https://drive.google.com/file/d/1-nreKGgf5RklZC36vv2wx6ZhEnetglVn/view)
+
 ### Concepts
 
 - State
