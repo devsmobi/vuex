@@ -137,10 +137,15 @@ _Graphical representation of the simple implementation of state_
 
 ### Access Helpers
 
-   - mapGetters 
-   
-     - Maps store getters to local computed properties
-   - 
+   - Helpers available: mapState,mapGetters,mapMutations,mapActions
+   - Using the helpers:
+     - computed
+       - mapState
+       - mapGetters 
+         - Maps store getters to local computed properties
+     - actions
+       - mapMutations
+       - mapActions
 ## References
 * [Vuex](https://vuex.vuejs.org/)
 * [Managing Your Vue.js Application’s State with Vuex — Part 1](https://morningstar.engineering/managing-your-vue-js-applications-state-with-vuex-part-1-355514a7b710)
